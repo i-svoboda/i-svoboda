@@ -9,6 +9,11 @@ I'm a PhD student in cybersecurity at Igor Sikorsky Kyiv Polytechnic Institute, 
 - [ORCID](https://orcid.org/0009-0001-1709-2904)
 - [Google Scholar](https://scholar.google.com/citations?user=nDHT_KIAAAAJ)
 
+## PhD thesis materials
+
+- [cadm-technology](https://github.com/i-svoboda/cadm-technology): programs of the technology
+- [dissertation-supplement](https://github.com/i-svoboda/dissertation-supplement): prompts, questionnaires and extra tables
+
 ## Selected publications
 
 - Svoboda I., Lande D. Пріоритизація засобів контролю безпеки для критичної інфраструктури за допомогою методу аналізу мереж і великих мовних моделей. Information Technology and Security, 2026, 14(1), 235–252. [DOI](https://doi.org/10.20535/2411-1031.2026.14.1.365500)
